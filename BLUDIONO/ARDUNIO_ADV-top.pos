@@ -1,0 +1,59 @@
+### Footprint positions - created on 2026-01-31T17:23:38+0530 ###
+### Printed by KiCad version 9.0.7-9.0.7~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                            Package                                              PosX       PosY       Rot  Side
+5V-LDO    LED                            LED_0805_2012Metric                              142.9766  -127.6373  -90.0000  top
+12V_IN    Barrel_Jack                    BarrelJack_CUI_PJ-102AH_Horizontal               156.7000   -84.9000   90.0000  top
+16Mhz     Crystal                        Crystal_SMD_5032-2Pin_5.0x3.2mm                  121.8734  -107.1626  180.0000  top
+BT        LED                            LED_0805_2012Metric                              142.8750  -132.1585   90.0000  top
+BT-PWR    LED                            LED_0805_2012Metric                              121.3358  -115.4430    0.0000  top
+BZ1       Buzzer                         SPKR_PKMCS0909E4000-R1                           161.5120  -135.5598    0.0000  top
+C1        100nf                          C_0805_2012Metric                                140.5382  -112.8624  -90.0000  top
+C2        100nf                          C_0805_2012Metric                                147.8280  -112.6388  -90.0000  top
+C3        22pf                           C_0805_2012Metric                                147.9296  -108.9812  -90.0000  top
+C4        22pf                           C_0805_2012Metric                                144.1450  -109.0320  -90.0000  top
+C5        1uf                            C_0805_2012Metric                                140.4112  -109.0574   90.0000  top
+C6        2.2uf                          C_0805_2012Metric                                144.0942  -112.8674   90.0000  top
+C7        10uf                           C_0805_2012Metric                                121.6304  -122.7074    0.0000  top
+C8        10uf                           C_0805_2012Metric                                146.5580  -128.8948   90.0000  top
+C9        0.1uf                          C_0805_2012Metric                                146.6850  -133.5176   90.0000  top
+C10       1.0uf                          C_0805_2012Metric                                149.8854  -123.8656   90.0000  top
+C11       100uf                          C_0805_2012Metric                                151.4856  -112.6846   90.0000  top
+C12       1.0fu                          C_0805_2012Metric                                150.2410  -133.4414  -90.0000  top
+C13       100nf                          C_0805_2012Metric                                146.5580  -137.7036  -90.0000  top
+D1        SS14                           D_SMA                                            127.1016  -111.3348   90.0000  top
+D3        SW_DPST_x2                     SW_SPST_PTS647_Sx50                              129.5566   -75.9970    0.0000  top
+D3        SS14                           D_SMA                                            136.9822  -111.1062   90.0000  top
+D5        SS14                           D_SMA                                            132.1308  -111.1316   90.0000  top
+EN        SW_DPST_x2                     SW_SPST_PTS647_Sx50                              120.7350   -86.9952    0.0000  top
+EN-BT     SW_DPST_x2                     SW_SPST_PTS647_Sx50                              115.2818  -138.5572    0.0000  top
+J1        ICSP                           PinHeader_2x03_P2.54mm_Vertical                  113.3094  -104.7496    0.0000  top
+J1-1      Conn_01x10_Pin                 PinSocket_1x10_P2.54mm_Vertical                  169.6500  -117.3900  180.0000  top
+J2-1      Conn_01x08_Pin                 PinSocket_1x08_P2.54mm_Vertical                  120.0900   -68.4400   90.0000  top
+J3-1      Conn_01x06_Pin                 PinSocket_1x06_P2.54mm_Vertical                  154.3600   -68.5700  -90.0000  top
+J4-1      Conn_01x08_Pin                 PinSocket_1x08_P2.54mm_Vertical                  169.7000  -121.2400    0.0000  top
+PWR       LED                            LED_0805_2012Metric                              143.0528  -122.7813  -90.0000  top
+R1        10k                            R_0805_2012Metric                                116.2577  -118.2878  180.0000  top
+R2        1k                             R_0805_2012Metric                                146.6850  -123.7761  -90.0000  top
+R3        330                            R_0805_2012Metric                                116.5371  -128.4224    0.0000  top
+R4        2.2k                           R_0805_2012Metric                                121.4393  -118.1608    0.0000  top
+R5        4.7k                           R_0805_2012Metric                                149.9870  -128.9539   90.0000  top
+R6        4.7k                           R_0805_2012Metric                                146.7612  -118.8485   90.0000  top
+R7        10k                            R_0805_2012Metric                                116.4863  -122.7074    0.0000  top
+R8        100                            R_0805_2012Metric                                122.0489  -139.2428    0.0000  top
+R9        DNP                            R_0805_2012Metric                                155.8055  -113.0046  180.0000  top
+R10       2k                             R_0805_2012Metric                                121.8711  -128.1430  180.0000  top
+R11       10k                            R_0805_2012Metric                                122.0489  -134.5692  180.0000  top
+R12       1k                             R_0805_2012Metric                                116.8927  -134.4422    0.0000  top
+R13       5.1k                           R_0805_2012Metric                                151.4094  -108.9171  -90.0000  top
+R14       5.1k                           R_0805_2012Metric                                151.0000   -73.9125   90.0000  top
+R15       1M                             R_0805_2012Metric                                150.3172  -137.6445  -90.0000  top
+RGB-D13   WS2812B                        LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm               120.7886   -79.0458    0.0000  top
+U1        ATMEGA328P-AU                  QFP80P900X900X120-32N                            135.0000   -92.5000  180.0000  top
+U2        TLV76750DRVx                   WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias   127.9413   -81.5698    0.0000  top
+U3        AMS1117-3.3                    SOT-223-3_TabPin2                                121.3612   -97.3832  -90.0000  top
+U4        APDS-9960                      Avago_APDS-9960                                  145.5450   -93.3000    0.0000  top
+U5        HC-05                          XCVR_HC-05                                       133.5900  -129.8650  180.0000  top
+USB-C     USB_C_Receptacle_PowerOnly_6P  USB_C_Receptacle_HRO_TYPE-C-31-M-12              167.0300   -74.4100   90.0000  top
+## End
